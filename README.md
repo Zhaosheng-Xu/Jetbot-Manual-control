@@ -16,6 +16,8 @@ The primary goal of this task is to manually navigate the JetBot through a prede
 - Controller: DualShock (can support others via 'widgets.Controller(index=0)')
 - Interface: Gamepad values linked via 'ipywidgets.jsdlink()' to control robot motion
 - Platform: NVIDIA Jetson Nano running JetBot with JupyterLab interface
+- ![image](https://github.com/user-attachments/assets/4f1d77e9-b42b-416a-85e5-0e0ef225e695)
+
 
 # Technologies Used
 
